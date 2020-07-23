@@ -1,7 +1,7 @@
 ## Hi! 😊
 
 - ✨ My name is Negin and I'm a **front-end developer** in Toronto
-- 🌱 I’m currently learning: **Next.js**, **Vue**, and **TailwindCSS**
+- 🌱 I’m currently learning: **Next.js**, **Vue**, and **Tailwind CSS**
 - ⚡ Fun fact: I have 120wpm and I only type with 4 fingers
 
 ### 💌 How to reach me
