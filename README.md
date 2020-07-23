@@ -2,7 +2,7 @@
 
 - ✨ My name is Negin and I'm a **front-end developer** in Toronto
 - 🌱 I’m currently learning: **Next.js**, **Vue**, and **Tailwind CSS**
-- ⚡ Fun fact: I have 120wpm and I only type with 4 fingers
+- ⚡ **Fun fact:** I can type at 120wpm while only using 4 fingers (it looks quite odd..)
 
 ### 💌 How to reach me
 * [Twitter](https://twitter.com/negicodes)
