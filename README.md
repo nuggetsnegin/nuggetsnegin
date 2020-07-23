@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi! 😊
+
+- ✨ My name is Negin and i'm a front-end developer in Toronto!
+- 🌱 I’m currently learning Next.js, Vue, and Redux!
+- ⚡ Fun fact: I have 120wpm and I only type with 4 fingers! 
+
+💌 How to reach me
+Twitter: twitter.com/negicodes
+Personal site: www.negi.dev
 
 <!--
 **nuggetsnegin/nuggetsnegin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
