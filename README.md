@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning: **Next.js**, **Vue**, and **Tailwind CSS**
 - ⚡ **Fun fact:** I can type at 120wpm while only using 4 fingers (it looks quite odd..)
 
-### 💌 How to reach me
+### 💌 How to reach me:
 * [Twitter](https://twitter.com/negicodes)
 * [Website](https://negi.dev/)
 
