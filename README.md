@@ -1,10 +1,10 @@
-### Hi! 😊
+## Hi! 😊
 
 - ✨ My name is Negin and i'm a front-end developer in Toronto!
 - 🌱 I’m currently learning Next.js, Vue, and Redux!
 - ⚡ Fun fact: I have 120wpm and I only type with 4 fingers! 
 
-## 💌 How to reach me
+### 💌 How to reach me
 * [Twitter](https://twitter.com/negicodes)
 * [Website](https://negi.dev/)
 
