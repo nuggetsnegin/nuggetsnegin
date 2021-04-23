@@ -1,4 +1,4 @@
-## Hi! 😊
+## Hi! 😊 I'm no longer active on this GitHub account, find me [drop-negin](https://github.com/drop-negin)
 
 - ✨ My name is Negin and I'm a **Software Engineer** at [Drop](https://www.earnwithdrop.com/)
 - 🌱 I’m currently learning: **Redux-Saga**, **TypeScript**, and **Tailwind CSS**
