@@ -1,7 +1,7 @@
 ## Hi! 😊 I'm no longer active on this GitHub account, find me @ [drop-negin](https://github.com/drop-negin)
 
 - ✨ My name is Negin and I'm a **Software Engineer** at [Drop](https://www.earnwithdrop.com/)
-- 🌱 I’m currently learning: **Redux-Saga**, **TypeScript**, and **Tailwind CSS**
+- 🌱 I’m currently leveling up in: **Redux-Saga**, **TypeScript**, and **Tailwind CSS**
 - ⚡ **Fun fact:** I can type at 120wpm while only using 4 fingers (it looks quite odd..)
 
 ### 💌 How to reach me:
