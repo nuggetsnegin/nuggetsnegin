@@ -1,11 +1,9 @@
 ## Hi! 😊 
 
 - ✨ My name is Negin and I'm a **Software Engineer** at [Mozilla](https://www.mozilla.org/en-CA/)
-- 🌱 I’m currently leveling up in: **Redux-Saga**, **TypeScript**, and **Tailwind CSS**
 - ⚡ **Fun fact:** I can type at 120wpm while only using 4 fingers (it looks quite odd..)
 
 ### 💌 How to reach me:
-* [Twitter](https://twitter.com/negicodes)
 * [Website](https://negi.dev/)
 
 <!--
