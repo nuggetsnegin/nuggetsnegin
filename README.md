@@ -1,6 +1,6 @@
 ## Hi! 😊 
 
-- ✨ My name is Negin and I'm a **Software Engineer** at [Mozilla](https://www.mozilla.org/en-CA/)
+- ✨ My name is Negi and I'm a **Software Engineer** at [Mozilla](https://www.mozilla.org/en-CA/)
 - ⚡ **Fun fact:** I can type at 120wpm while only using 4 fingers (it looks quite odd..)
 
 ### 💌 How to reach me:
